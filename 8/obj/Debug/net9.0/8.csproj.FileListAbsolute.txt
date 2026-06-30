@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_2026-main\8\bin\Debug\net9.0\8.exe
+C:\Users\Alunos\Desktop\LPR_2026-main\8\bin\Debug\net9.0\8.deps.json
+C:\Users\Alunos\Desktop\LPR_2026-main\8\bin\Debug\net9.0\8.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_2026-main\8\bin\Debug\net9.0\8.dll
+C:\Users\Alunos\Desktop\LPR_2026-main\8\bin\Debug\net9.0\8.pdb
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.dll
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\refint\8.dll
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.pdb
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\8.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_2026-main\8\obj\Debug\net9.0\ref\8.dll
