@@ -11,7 +11,7 @@ namespace programa2
             public int anopubli1,anopubli2,anopubli3;
             public int numpa1,numpa2,numpa3;
             public float preco1,preco2,preco3;
-        }
+        } 
         public void Main(string []args)
         {
             Livros[] dadoL = new Livros[5];
