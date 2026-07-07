@@ -9,6 +9,6 @@ struct Produto
 }
 main()
 {
-cout<<"de so dados de 3 produtos: ";
+cout<<"de os dados de 3 produtos: ";
 
 }
